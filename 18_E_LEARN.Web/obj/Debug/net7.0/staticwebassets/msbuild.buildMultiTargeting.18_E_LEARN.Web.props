@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\18_E_LEARN.Web.props" />
+</Project>

@@ -30,6 +30,7 @@ namespace _18_E_LEARN.DataAccess.Initializer
                         Surname = "Admin surname",
                         PhoneNumber = "+xx(xxx)xx-xx-xxx",
                         PhoneNumberConfirmed = true,
+                       // Age = ,
                     };
 
                     AppUser teacher = new AppUser
@@ -41,6 +42,7 @@ namespace _18_E_LEARN.DataAccess.Initializer
                         Surname = "Teacher surname",
                         PhoneNumber = "+xx(xxx)xx-xx-xxx",
                         PhoneNumberConfirmed = true,
+                        //Age = 18,
                     };
 
                     AppUser student = new AppUser
@@ -52,6 +54,7 @@ namespace _18_E_LEARN.DataAccess.Initializer
                         Surname = "Student surname",
                         PhoneNumber = "+xx(xxx)xx-xx-xxx",
                         PhoneNumberConfirmed = true,
+                        //Age = 18,
                     };
 
                     await _context.Roles.AddRangeAsync(

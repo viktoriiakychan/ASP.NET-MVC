@@ -11,5 +11,6 @@ namespace _18_E_LEARN.DataAccess.Data.Models.User
     {
         public string Name { get; set; }
         public string Surname { get; set; }
+        //public int Age { get; set; }
     }
 }

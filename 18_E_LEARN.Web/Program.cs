@@ -1,26 +1,24 @@
 using _18_E_LEARN.DataAccess.Data.Context;
 using _18_E_LEARN.DataAccess.Data.Models.User;
 using _18_E_LEARN.DataAccess.Initializer;
+using _18_E_LEARN.Web.Infrastructure.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using _18_E_LEARN.Web.Infrastructure.AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
-
-// Add application database context
-builder.Services.AddDbContext<AppDbContext>();
-
-// Add Identity
-builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
-{
-
-})
-    .AddEntityFrameworkStores<AppDbContext>()
-    .AddDefaultTokenProviders();
 
 
+// Add services to the container. ==> ServicesConfiguration
+
+// Include services
+
+ServicesConfiguration.Config(builder.Services);
+
+//AutoMapper
+AutoMapperConfiguration.Config(builder.Services);
 
 var app = builder.Build();
 
@@ -37,7 +35,9 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",

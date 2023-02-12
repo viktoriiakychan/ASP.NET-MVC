@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\bin\Debug\net7.0\18_E_LEARN.DataAccess.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\bin\Debug\net7.0\18_E_LEARN.DataAccess.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\bin\Debug\net7.0\18_E_LEARN.DataAccess.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\bin\Debug\net7.0\18_E_LEARN.DataAccess.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\refint\18_E_LEARN.DataAccess.dll
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\18_E_LEARN.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ASP .NET\18_E_LEARN\18_E_LEARN.DataAccess\obj\Debug\net7.0\ref\18_E_LEARN.DataAccess.dll
